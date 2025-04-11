@@ -8,12 +8,6 @@ Welcome to my GitHub profile! I'm a developer passionate about Natural Language 
 - - Aimed at Practical Language Processing.
 - - Uses Python (89%) and Jupyter Notebook (11%).
 
-### IRS-PM-2024-10-22-ISY5001-GRP4-fItneSS-us-Pandas
-- Description: NUS Practice Module project focusing on data analysis and visualization.
-- Highlights:
-- - Developed using Jupyter Notebook (88.7%), Python (6.9%), and Swift (4.3%).
-- - Explores data-driven solutions for real-life applications.
-
 ## 🌱 What I'm Learning
 - Advanced NLP Techniques: Improving text generation and classification tasks.
 - Data Visualization: Making data insights more accessible and visually appealing.
