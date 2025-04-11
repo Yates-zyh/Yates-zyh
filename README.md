@@ -1,4 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Yates-zyh! 👋
+Welcome to my GitHub profile! I'm a developer passionate about Natural Language Processing (NLP), Machine Learning, and Data Analysis. My work spans across fine-tuning models, exploring data-driven solutions, and applying cutting-edge technologies in practical scenarios.
+
+## 🔭 Current Projects
+### Author-Identifier
+- Description: Fine-tuning BERT to identify articles from different authors and generate articles with similar styles.
+- Highlights:
+- - Aimed at Practical Language Processing.
+- - Uses Python (89%) and Jupyter Notebook (11%).
+
+### IRS-PM-2024-10-22-ISY5001-GRP4-fItneSS-us-Pandas
+- Description: NUS Practice Module project focusing on data analysis and visualization.
+- Highlights:
+- - Developed using Jupyter Notebook (88.7%), Python (6.9%), and Swift (4.3%).
+- - Explores data-driven solutions for real-life applications.
+
+## 🌱 What I'm Learning
+- Advanced NLP Techniques: Improving text generation and classification tasks.
+- Data Visualization: Making data insights more accessible and visually appealing.
+- Swift Programming: Exploring app development capabilities.
+
+## 📫 How to Reach Me
+Feel free to connect with me:
+- GitHub: Yates-zyh
+- Email: zyh562918965@gmail.com
+
+## 🛠️ Technologies I Work With
+- Programming Languages: Python, Swift, HTML
+- Tools: Jupyter Notebook, Pandas, TensorFlow, PyTorch
+- Areas of Interest: Machine Learning, NLP, Data Analysis
+
+This README serves as an evolving snapshot of my journey as a developer. Stay tuned for more updates and exciting projects!
 
 <!--
 **Yates-zyh/Yates-zyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
